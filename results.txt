@@ -1,0 +1,6 @@
+Algoritmo: P-MinHash || Número de Genomas: 15 || Tamaño de Hash: 17 || Tamaño de data: 101 || Tiempo de ejecución: 6.19395337500000011e-03 || Nombre de la distribución de los pesos: empirical || Consumer: 0
+Algoritmo: ProbMinHash3a || Número de Genomas: 15 || Tamaño de Hash: 17 || Tamaño de data: 101 || Tiempo de ejecución: 3.16635627499999989e-02 || Nombre de la distribución de los pesos: empirical || Consumer: 0
+Algoritmo: ProbMinHash4 || Número de Genomas: 15 || Tamaño de Hash: 17 || Tamaño de data: 101 || Tiempo de ejecución: 9.16450378124999965e-03 || Nombre de la distribución de los pesos: empirical || Consumer: 0
+
+[---]
+
